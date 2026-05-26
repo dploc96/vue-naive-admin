@@ -1,0 +1,21 @@
+.maestro/playbooks/LOOP_00001_GAPS.md
+  s_0e51bf625e004f::t_7218b6ca8ab85b 1-190,192-208,213-215,220-250
+.maestro/playbooks/readme-accuracy/2_FIND_GAPS.md
+  s_0e51bf625e004f::t_7218b6ca8ab85b 24-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "ecbd6f221966c8d89b13d4adc7d45560c2b16da7",
+  "prompts": {},
+  "sessions": {
+    "s_0e51bf625e004f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e64e4-b991-7a82-aee3-2f63ddcb0e7e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "loicduong <mikhailcolt@gmail.com>"
+    }
+  }
+}
