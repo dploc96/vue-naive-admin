@@ -1,0 +1,21 @@
+.maestro/playbooks/LOOP_00001_FEATURE_INVENTORY.md
+  s_d430d4c526a37b::t_304788a8d61412 1-167
+.maestro/playbooks/readme-accuracy/1_ANALYZE.md
+  s_d430d4c526a37b::t_c96534accbd9f7 23-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "f5b637979b11c857189e111ea4fe61fac33ef7e3",
+  "prompts": {},
+  "sessions": {
+    "s_d430d4c526a37b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e64df-1416-7120-8986-d7892ee2395f",
+        "model": "gpt-5.5"
+      },
+      "human_author": "loicduong <mikhailcolt@gmail.com>"
+    }
+  }
+}
