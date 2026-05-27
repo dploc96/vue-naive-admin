@@ -1,0 +1,29 @@
+.maestro/playbooks/readme-accuracy/3_EVALUATE.md
+  s_c25a79d8f045d4::t_aa26d96a95be5c 24
+.maestro/playbooks/readme-accuracy/2_FIND_GAPS.md
+  s_c25a79d8f045d4::t_aa26d96a95be5c 24
+.maestro/playbooks/readme-accuracy/1_ANALYZE.md
+  s_c25a79d8f045d4::t_aa26d96a95be5c 23
+.maestro/playbooks/runs/readme-accuracy/5_PROGRESS-1779843402509-loop-1.md
+  s_c25a79d8f045d4::t_81da5b5c539379 23-33
+  s_c25a79d8f045d4::t_625d348619ace0 74-99
+.maestro/playbooks/readme-accuracy/4_IMPLEMENT.md
+  s_c25a79d8f045d4::t_625d348619ace0 72-114
+  s_c25a79d8f045d4::t_aa26d96a95be5c 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "1dcbd16a5b77e505bbd8622f79a50d53e0814d01",
+  "prompts": {},
+  "sessions": {
+    "s_c25a79d8f045d4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e66ef-725e-7053-a707-ee9f3f41e793",
+        "model": "gpt-5.5"
+      },
+      "human_author": "loicduong <mikhailcolt@gmail.com>"
+    }
+  }
+}
